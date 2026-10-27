@@ -1,0 +1,44 @@
+{
+  "p8_ee_Zee_ecm91": {
+    "numberOfEvents": 100000000,
+    "crossSection": 1462.090,
+    "matchingEfficiency": 1.0,
+    "description": "Z to ee at 91.2 GeV"
+  },
+  "p8_ee_Zmumu_ecm91": {
+    "numberOfEvents": 100000000,
+    "crossSection": 1462.080,
+    "matchingEfficiency": 1.0,
+    "description": "Z to mumu at 91.2 GeV"
+  },
+  "p8_ee_Ztautau_ecm91": {
+    "numberOfEvents": 100000000,
+    "crossSection": 1476.580,
+    "matchingEfficiency": 1.0,
+    "description": "Z to tautau at 91.2 GeV"
+  },
+  "p8_ee_Zud_ecm91": {
+    "numberOfEvents": 497658654,
+    "crossSection": 11870.500,
+    "matchingEfficiency": 1.0,
+    "description": "Z to ud hadrons at 91.2 GeV"
+  },
+  "p8_ee_Zss_ecm91": {
+    "numberOfEvents": 499842440,
+    "crossSection": 5215.46,
+    "matchingEfficiency": 1.0,
+    "description": "Z to ss hadrons at 91.2 GeV"
+  },
+  "p8_ee_Zcc_ecm91": {
+    "numberOfEvents": 499786495,
+    "crossSection": 5215.460,
+    "matchingEfficiency": 1.0,
+    "description": "Z to cc hadrons at 91.2 GeV"
+  },
+  "p8_ee_Zbb_ecm91": {
+    "numberOfEvents": 438738637,
+    "crossSection": 6645.460,
+    "matchingEfficiency": 1.0,
+    "description": "Z to bb hadrons at 91.2 GeV"
+  }
+}
