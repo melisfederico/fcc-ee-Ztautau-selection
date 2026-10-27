@@ -5,10 +5,10 @@ This repository contains the data analysis and machine learning training scripts
 The project implements two different neural network architectures for signal-background discrimination: a Multi-Layer Perceptron (MLP) and a Particle Transformer (ParT).
 
 ## Repository Structure
-* `analysis_MLP.py`: Extracts kinematic features and variables from ROOT EDM4hep files for the MLP network.
-* `neuralnet_MLP.py`: PyTorch implementation of the MLP classifier.
-* `analysis_ParT.py`: Extracts 4-momenta and particle attributes for the ParT network.
-* `neuralnet_ParT.py`: PyTorch implementation of the Particle Transformer classifier.
+* `mlp/analysis_MLP.py`: Extracts kinematic features and variables from ROOT EDM4hep files for the MLP network.
+* `mlp/neuralnet_MLP.py`: PyTorch implementation of the MLP classifier.
+* `part/analysis_ParT.py`: Extracts 4-momenta and particle attributes for the ParT network.
+* `part/neuralnet_ParT.py`: PyTorch implementation of the Particle Transformer classifier.
 
 ## Requirements
 * ROOT (with RDataFrame support)
